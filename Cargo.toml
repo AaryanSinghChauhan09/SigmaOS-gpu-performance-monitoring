@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-gpu-performance-monitoring"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS gpu-performance-monitoring component - graphics"
+
+[lib]
+name = "gpu_performance_monitoring"
+path = "src/lib.rs"

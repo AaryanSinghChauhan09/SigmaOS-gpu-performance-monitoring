@@ -3,7 +3,7 @@ name = "SigmaOS-gpu-performance-monitoring"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gpu-performance-monitoring component"
+description = "GPU Performance Monitoring"
 upstream = []
 
 [contract]
